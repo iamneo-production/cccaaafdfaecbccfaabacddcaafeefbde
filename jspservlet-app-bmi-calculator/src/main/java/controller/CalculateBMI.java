@@ -38,7 +38,7 @@ public class CalculateBMI {
             return "Extremely Obese";
 
         }
-
+    }
     
     }
 
